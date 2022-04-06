@@ -1,3 +1,5 @@
+ [![Quality Gate Status](https://community.objectscriptquality.com/api/project_badges/measure?project=intersystems_iris_community%2FGlobals-ePy-vs-ISOS&metric=alert_status)](https://community.objectscriptquality.com/dashboard?id=intersystems_iris_community%2FGlobals-ePy-vs-ISOS)
+
 # Globals-ePy-vs-ISOS
 This example demonstrates the difference you may experience when you access globals   
 directly from Embedded Python compared to native ObjectScript.   
