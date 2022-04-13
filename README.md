@@ -83,10 +83,13 @@ Settings file to let you immediately code in VSCode with [VSCode ObjectScript pl
 ###  .vscode/launch.json  
 Config file if you want to debug with VSCode ObjectScript
 
-### Code Quality 
-![CodeQuality](https://raw.githubusercontent.com/rcemper/Globals-ePy-vs-ISOS/master/CodeQuality.JPG) 
-
 [Article in DC.PT](https://pt.community.intersystems.com/post/globals-comparar-embedded-python-e-objectscript)     
 [Article in DC.EN](https://community.intersystems.com/post/compare-global-write-epy-vs-isoscos) 
 
 [Video](https://youtu.be/SUVrHidHpmg)
+
+[Online Demo SMP](https://globals-epy-vs-isos.demo.community.intersystems.com/csp/sys/%25CSP.Portal.Home.zen)    
+[Online Demo Webterminal](https://globals-epy-vs-isos.demo.community.intersystems.com/terminal/?ns=USER)   
+
+**Code Quality**
+<imgh width="85%" src="https://openexchange.intersystems.com/mp/img/packages/1787/screenshots/ddoacceubc6nxbzhtltvxiew6q.jpg">
