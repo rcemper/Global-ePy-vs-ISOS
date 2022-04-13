@@ -92,4 +92,4 @@ Config file if you want to debug with VSCode ObjectScript
 [Online Demo Webterminal](https://globals-epy-vs-isos.demo.community.intersystems.com/terminal/?ns=USER)   
 
 **Code Quality**
-<imgh width="85%" src="https://openexchange.intersystems.com/mp/img/packages/1787/screenshots/ddoacceubc6nxbzhtltvxiew6q.jpg">
+<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/1787/screenshots/ddoacceubc6nxbzhtltvxiew6q.jpg">
