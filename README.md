@@ -1,4 +1,3 @@
- [![Quality Gate Status](https://community.objectscriptquality.com/api/project_badges/measure?project=intersystems_iris_community%2FGlobals-ePy-vs-ISOS&metric=alert_status)](https://community.objectscriptquality.com/dashboard?id=intersystems_iris_community%2FGlobals-ePy-vs-ISOS)
 
 # Globals-ePy-vs-ISOS
 This example demonstrates the difference you may experience when you access globals   
@@ -72,16 +71,6 @@ Job Control [0=stop,1=view,2=go]: 0
 ^ePy(3,3148765)=2022-03-11 20:50:54.620362
 ^ISOS(3,6714519)=2022-03-11 20:50:54.620371
 ```
-
-## What's inside the repository
-### Dockerfile
-The simplest dockerfile which starts IRIS and imports code from /src folder into it.   
-Use the related docker-compose.yml to easily setup additional parameters like     
-port number and where you map keys and host folders.
-### .vscode/settings.json   
-Settings file to let you immediately code in VSCode with [VSCode ObjectScript plugin](https://marketplace.visualstudio.com/items?itemName=daimor.vscode-objectscript)
-###  .vscode/launch.json  
-Config file if you want to debug with VSCode ObjectScript
 
 [Article in DC.PT](https://pt.community.intersystems.com/post/globals-comparar-embedded-python-e-objectscript)     
 [Article in DC.EN](https://community.intersystems.com/post/compare-global-write-epy-vs-isoscos) 
