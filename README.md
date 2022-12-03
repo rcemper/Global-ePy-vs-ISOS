@@ -41,10 +41,7 @@ Connect to the container using [webterminal](http://localhost:52773/terminal/?ns
 start an IRIS session in docker
 ```
    docker-compose exec iris iris session iris
-```
-or use    
-- **[Online Demo SMP](https://globals-epy-vs-isos.demo.community.intersystems.com/csp/sys/%25CSP.Portal.Home.zen)**    
-- **[Online Demo Webterminal](https://globals-epy-vs-isos.demo.community.intersystems.com/terminal/?ns=USER)**    
+``` 
 ### Example
 ```
 USER>do ##class(dc.rcc.ePYvsISOS).do()
@@ -76,9 +73,3 @@ Job Control [0=stop,1=view,2=go]: 0
 [Article in DC.EN](https://community.intersystems.com/post/compare-global-write-epy-vs-isoscos) 
 
 [Video](https://youtu.be/SUVrHidHpmg)
-
-[Online Demo SMP](https://globals-epy-vs-isos.demo.community.intersystems.com/csp/sys/%25CSP.Portal.Home.zen)    
-[Online Demo Webterminal](https://globals-epy-vs-isos.demo.community.intersystems.com/terminal/?ns=USER)   
-
-**Code Quality**    
-<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/1787/screenshots/ddoacceubc6nxbzhtltvxiew6q.jpg">
