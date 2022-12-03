@@ -5,5 +5,5 @@ Do ##class(Security.Users).UnExpireUserPasswords("*")
 zpm "install webterminal"
 
 zn "USER"
-zpm "load /opt/irisbuild/ -v":1
+Do $System.OBJ.LoadDir("/opt/irisbuild/src","cuk")
 halt
