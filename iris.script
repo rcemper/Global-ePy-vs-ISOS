@@ -2,7 +2,7 @@
 
 zn "%SYS"
 Do ##class(Security.Users).UnExpireUserPasswords("*")
-zpm "install webterminal"
+zpm "install iterm"
 
 zn "USER"
 Do $System.OBJ.LoadDir("/opt/irisbuild/src","cuk")
