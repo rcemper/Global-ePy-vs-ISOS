@@ -37,7 +37,7 @@ Run the IRIS container with your project:
 docker-compose up -d --build
 ```
 ## How to Test it
-Connect to the container using [webterminal](http://localhost:52773/terminal/?ns=USER) or    
+Connect to the container using [iterm](http://localhost:52773/iterm/?ns=USER) or    
 start an IRIS session in docker
 ```
    docker-compose exec iris iris session iris
